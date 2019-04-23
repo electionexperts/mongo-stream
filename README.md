@@ -14,7 +14,7 @@ to synchronize data between Mongodb and ElasticSearch
 ## Setup
 
 ```
-git clone https://github.com/everyone-counts/mongo-stream.git
+git clone https://github.com/electionsexperts/mongo-stream.git
 
 npm install
 ```
@@ -37,11 +37,4 @@ Feel free to submit pull requests. If you'd like to contribute towards closing a
 
 ## Credits
 
-This software was developed as an internal project at Votem Corp.
-
-Votem bolsters trust, access, and transparency in elections with a core suite
-of products spanning voter registration, mobile and electronic ballot marking
-for military and overseas voters and voters with accessibility considerations,
-and election management systems focused on security and verifiable voting.
-
-For more information, visit https://votem.com.
+This project was originally developed [here](https://github.com/votem/mongo-stream) and will henceforth be maintained and updated at: https://github.com/electionsexperts/mongo-stream.
